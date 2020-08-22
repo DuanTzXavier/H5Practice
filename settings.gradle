@@ -1,0 +1,3 @@
+include ':cleanweb'
+include ':app'
+rootProject.name = "H5Practice"
